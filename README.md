@@ -2,7 +2,7 @@
 
 A local AI tool that turns an English description of the break you want into one short outdoor mission. Read the card, put the screen away, and go. Built from scratch on October 10, 2026 for the Hacktoberfest Week 1 theme, Touch Grass.
 
-**Status:** source and demonstration published; DEV challenge entry pending. No award or earnings. An outdoor field trial has not been performed.
+**Status:** source, demonstration and the [DEV challenge article](https://dev.to/redbeansquirrel/pocket-field-trip-a-little-local-ai-then-a-little-time-outside-2l51) are published. DEV displays the Week 1 submission banner. No award or earnings have been verified. An outdoor field trial has not been performed.
 
 ## What actually runs
 
@@ -63,4 +63,4 @@ Watch the [60-second demo](https://redbeansquirrel.github.io/pocket-field-trip/)
 - Inference: [ONNX Runtime](https://onnxruntime.ai/), MIT.
 - Tokenization: [Hugging Face Tokenizers](https://github.com/huggingface/tokenizers), Apache-2.0.
 
-AI assisted implementation, original mission writing and documentation. Source code in this folder is offered under the attached MIT license. Upstream components retain their own licenses.
+AI agents produced the implementation, original mission text and documentation. Additional AI review and local tests checked the results. The DEV article is disclosed as Fully Autonomous. Source code in this folder is offered under the attached MIT license. Upstream components retain their own licenses.
