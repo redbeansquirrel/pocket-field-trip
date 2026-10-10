@@ -2,7 +2,7 @@
 
 A local AI tool that turns an English description of the break you want into one short outdoor mission. Read the card, put the screen away, and go. Built from scratch on October 10, 2026 for the Hacktoberfest Week 1 theme, Touch Grass.
 
-**Status:** source and demonstration prepared for public release; challenge entry pending. No award or earnings. An outdoor field trial has not been performed.
+**Status:** source and demonstration published; DEV challenge entry pending. No award or earnings. An outdoor field trial has not been performed.
 
 ## What actually runs
 
@@ -48,7 +48,7 @@ Browser review also exposed a relevance limit: asking for exercise while disabli
 
 A 60-second demonstration has been generated from five actual browser screenshots, each shown for 12 seconds with explanatory captions. It is an edited screenshot demonstration, not a continuous screen recording. The browser review covers:
 
-1. The initial interface.
+1. An interface overview.
 2. A drawing request producing the shadow-sketch card.
 3. An exercise request producing the familiar brisk loop.
 4. The no-walking constraint, including the relevance limitation described above.
