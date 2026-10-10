@@ -1,0 +1,20 @@
+{
+  "file": "pocket-field-trip-demo.mp4",
+  "format": "H.264 MP4, yuv420p",
+  "width": 1280,
+  "height": 720,
+  "fps": 10,
+  "duration_seconds": 60,
+  "method": "Five actual browser screenshots, 12 seconds each, explanatory captions. Not a continuous recording.",
+  "screenshots": [
+    "demo-00-overview.png",
+    "demo-01-drawing.png",
+    "demo-02-exercise.png",
+    "demo-03-no-walking.png",
+    "demo-04-pause.png"
+  ],
+  "decode_check": "passed",
+  "bytes": 304631,
+  "sha256": "db053c883412fd04489125a9353745b3d06814f03da2550bca436a5952ab3870",
+  "published": false
+}
